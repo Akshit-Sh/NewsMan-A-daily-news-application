@@ -24,7 +24,7 @@ export default class App extends Component {
             </Route>
           </Switch>
           <Switch>
-            <Route exact path="/business">
+            <Route exact path="/Business">
               {" "}
               <News
                 key="business"

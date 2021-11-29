@@ -18,7 +18,7 @@ export class NewsItem extends Component {
           />
           <div className="card-body">
             <h5 className="card-title">
-              {title} <span class="badge bg-success">{source}</span>
+              {title} <span className="badge bg-success">{source}</span>
             </h5>
             <p className="card-text">{description}</p>
             <p className="card-text">
